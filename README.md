@@ -1,4 +1,4 @@
-# 👋 Olá | Hi there!
+👋 Olá | Hi there!
 
 Sou um desenvolvedor mobile com foco em Flutter e Dart, apaixonado por criar aplicativos modernos, escaláveis e de alta performance. Minha jornada no desenvolvimento mobile é guiada pelo desejo constante de aprender, aplicar boas práticas e entregar soluções que realmente façam a diferença para os usuários e para o mercado.
 
@@ -6,7 +6,7 @@ I'm a mobile developer focused on Flutter and Dart, passionate about building mo
 
 ---
 
-## 🚀 Sobre meu trabalho com Flutter | About my Flutter Work
+🚀 Sobre meu trabalho com Flutter | About my Flutter Work
 
 Tenho experiência na construção de aplicativos multiplataforma utilizando o framework Flutter e a linguagem Dart. Trabalho desde a prototipagem até a publicação nas lojas, sempre prezando por qualidade, performance e uma ótima experiência de usuário.
 
@@ -14,29 +14,37 @@ I have experience in building cross-platform apps using Flutter and Dart. I work
 
 ---
 
-## 🛠️ Habilidades com Flutter | Flutter Skills
+🛠️ Habilidades com Flutter | Flutter Skills
 
-- 📱 Desenvolvimento de aplicativos multiplataforma com Flutter  
-  Cross-platform mobile app development using Flutter
+📱 Desenvolvimento de aplicativos multiplataforma com Flutter  
+Cross-platform mobile app development using Flutter
 
-- 🎨 Interfaces modernas, responsivas e personalizadas com Widget Tree e Material Design  
-  Modern, responsive, and customized UI with Widget Tree and Material Design
+🎨 Interfaces modernas, responsivas e personalizadas com Widget Tree e Material Design  
+Modern, responsive, and customized UI with Widget Tree and Material Design
 
-- 🧠 Gerenciamento de estado com  Bloc  
-  State management using  Bloc
+🧠 Gerenciamento de estado com Bloc  
+State management using Bloc
 
-- 🔌 Integração com APIs REST e Firebase  
-  Integration with REST APIs and Firebase (Auth, Firestore, Realtime DB)
+🔌 Integração com APIs REST e Firebase  
+Integration with REST APIs and Firebase (Auth, Firestore, Realtime DB)
 
-- 🧪 Aplicação de boas práticas de arquitetura como Clean Architecture e MVVM  
-  Applying architecture best practices like Clean Architecture and MVVM
+🧪 Aplicação de boas práticas de arquitetura como Clean Architecture e MVVM  
+Applying architecture best practices like Clean Architecture and MVVM
 
-- 🚀 Publicação de apps na Google Play Store e App Store  
-  Publishing apps to Google Play Store and App Store
+🚀 Publicação de apps na Google Play Store e App Store  
+Publishing apps to Google Play Store and App Store
 
 ---
 
-## 💡 O que me motiva | What Drives Me
+☕ Em aprendizado: Java | Currently Learning: Java
+
+Também estou expandindo minha base técnica com a linguagem Java, estudando seus fundamentos e a Programação Orientada a Objetos (POO). Meu objetivo é atuar futuramente também com back-end ou desenvolvimento Android nativo, conectando meu conhecimento mobile com uma base sólida de lógica e estrutura de código.
+
+I'm currently expanding my skill set by studying Java, focusing on fundamentals and Object-Oriented Programming (OOP). I'm interested in transitioning into back-end or native Android development, combining my mobile experience with solid programming principles.
+
+---
+
+💡 O que me motiva | What Drives Me
 
 Sou movido pela vontade de resolver problemas reais através da tecnologia. Cada projeto é uma oportunidade de evoluir, criar valor e impactar positivamente a vida das pessoas por meio de experiências digitais bem construídas.
 
@@ -44,11 +52,7 @@ I'm driven by the desire to solve real problems through technology. Every projec
 
 ---
 
-## 📫 Vamos conversar? | Let's connect!
+📫 Vamos conversar? | Let's connect!
 
 Se quiser trocar uma ideia, tirar dúvidas ou propor uma colaboração, sinta-se à vontade para me chamar!  
 Feel free to reach out for a chat, questions, or possible collaboration!
-
-
-
----
